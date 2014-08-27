@@ -638,6 +638,7 @@ body {
     padding-left:8px;
 }
 #article-container h3.title a {
+    line-height:56px;
     color:#41a8a0;
     font-size:49px;
 }
